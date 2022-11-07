@@ -1,0 +1,6 @@
+{
+    
+    experimental: {
+      outputStandalone: true
+    }
+  }
